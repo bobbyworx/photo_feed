@@ -238,7 +238,7 @@ Devise.setup do |config|
   # ==> OmniAuth
   # Add a new OmniAuth provider. Check the wiki for more information on setting
   # up on your models and hooks.
-  config.omniauth :fiveHundredPx, 'rrA9DzpujJqzZOKM2iGTzo18BmaqaSnQp4MQjFIP', 'qhliZN47DBXSlPQnVrxcIrZd3yDCHDbWZ4G0S3BS'
+  config.omniauth :fiveHundredPx, 'jGtcjecSzUUd7ugOI5DRspyPOeSBN2kvsRry6eX3', 'jaM3pH1bKmrxN2CDEHUj45aqY8DP0NUoEiIorvJh'
 
   # ==> Warden configuration
   # If you want to use other strategies, that are not supported by Devise, or
